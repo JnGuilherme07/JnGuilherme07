@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Guilherme Souza Couto and I'm a programming student from Brazil 🇧🇷.</p>
+<p align="left">My name is João Guilherme Souza Couto and I'm a programming student from Brazil.</p>
 
 ###
 
